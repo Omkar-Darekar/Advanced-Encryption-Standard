@@ -69,8 +69,8 @@ Experiment No.     String Size (bytes)      Iteration Count         Encryption T
 
 **Output - **
 
-  Input string : bpurmplcfmgxcsa
-  Encrypted message in hex : a 30 8 c5 c2 da 69 21 e7 39 ac cb 6 8 8f 85
-  Decrypted Message : bpurmplcfmgxcsa
-  EncyptionTime : 0.00018
-  DecryptionTime : 0.00013
+        Input string : bpurmplcfmgxcsa
+        Encrypted message in hex : a 30 8 c5 c2 da 69 21 e7 39 ac cb 6 8 8f 85
+        Decrypted Message : bpurmplcfmgxcsa
+        EncyptionTime : 0.00018
+        DecryptionTime : 0.00013
