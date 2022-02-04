@@ -64,8 +64,9 @@ This article consist of AES implementation for 128 bit encryption. Code consist 
 
 
 **This code also work on LINUX environment. To compile and run on LINUX environment -**
-  g++ main.cpp AES_EncryptionDecryption.cpp -o main
-  ./main
+
+        g++ main.cpp AES_EncryptionDecryption.cpp -o main
+        ./main
 
 **Output - **
 
