@@ -35,7 +35,7 @@ This article consist of AES implementation for 128 bit encryption. Code consist 
 
 **Code have tested on following parameters –**
 
-Experiment No.     String Size (bytes)      Iteration Count         Encryption Time (Sec)            Decryption Time (Sec)
+        Experiment No.     String Size (bytes)      Iteration Count         Encryption Time (Sec)            Decryption Time (Sec)
 
 1.                   1024                       1000                      0.001509                          0.0016
 
